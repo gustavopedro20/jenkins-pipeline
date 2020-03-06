@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.gpgtecnologia"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "pipeline",
+    "packageName": "br.com.gpgtecnologia",
+    "packageFolder": "br/com/gpgtecnologia",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTg1YTgyOGFjODgwMTYzYmE1YjhkNDNlNmUyYmNiYjk3OTExYWE2MzgxODE3ZjA3Y2M1MGM0ZjI4NDc2YjU3MTJkNzM4N2NhMjBhMDJmN2NkNjE2ZGUyMjIwNmNjNGYwMDRjOWE4NTlmMmM5YTc3NmNmN2RiYTFhMTk1M2YyNTY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1583461780825,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
